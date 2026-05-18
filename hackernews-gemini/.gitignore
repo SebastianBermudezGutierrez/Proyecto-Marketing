@@ -1,0 +1,26 @@
+# Credenciales y tokens sensibles
+credentials.json
+token.json
+
+# Variables de entorno
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
